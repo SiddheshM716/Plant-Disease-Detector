@@ -3,10 +3,10 @@
 LeafDoctor is an intelligent plant disease detection system that uses deep learning to identify diseases in plant leaves. The system can detect various diseases in plants like tomatoes, potatoes, and peppers, providing accurate diagnoses and treatment recommendations.
 
 <span>
-    <img src="assets/image1.png" alt="Image 1" width="25%">
-    <img src="assets/image2.png" alt="Image 2" width="25%">
-    <img src="assets/image3.png" alt="Image 3" width="25%">
-    <img src="assets/image4.png" alt="Image 4" width="25%">
+    <img src="assets/image1.png" alt="Image 1" width="100%">
+    <img src="assets/image2.png" alt="Image 2" width="100%">
+    <img src="assets/image3.png" alt="Image 3" width="100%">
+    <img src="assets/image4.png" alt="Image 4" width="100%">
 </span>
 
 ## 🚀 Features
